@@ -1,0 +1,14 @@
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\bin\Debug\net8.0\Basket.exe
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\bin\Debug\net8.0\Basket.deps.json
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\bin\Debug\net8.0\Basket.runtimeconfig.json
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\bin\Debug\net8.0\Basket.dll
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\bin\Debug\net8.0\Basket.pdb
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.AssemblyInfoInputs.cache
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.AssemblyInfo.cs
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.dll
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\refint\Basket.dll
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.pdb
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\Basket.genruntimeconfig.cache
+C:\Users\juanj\Desktop\SegundoEntregable\Basket\Basket\obj\Debug\net8.0\ref\Basket.dll
